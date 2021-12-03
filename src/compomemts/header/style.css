@@ -1,0 +1,56 @@
+.header-container{
+    background-color: #F6F8FA;
+    height: 80px;
+    padding: 20px;
+    margin-bottom: 36px;
+}
+.git-repo-name-watch-star-container{
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-bottom: 20px;
+    
+}
+.git-repo-name{
+    margin-right: 16px;
+}
+img{
+    height: 15px;
+    margin-right: 10px;
+}
+.facebook-name{
+    color: #0969DA;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+.facebook-name:hover{
+    text-decoration: underline;
+
+    
+}
+
+.react-name{
+    color: #0969DA;
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+.react-name:hover{
+    text-decoration: underline;
+
+    
+}
+.slash{
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+
+.public-lable{
+    padding: 0 7px;
+    font-size: 12px;
+    font-weight: 500px;
+    border: 1px solid ;
+    border-radius: 2em;
+}
